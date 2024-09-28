@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP and Laravel programming**
 
-- 👀 Wanna have one look over my simple portfolio? [https://saanvi-mj.github.io](https://saanvi-mj.github.io)
+- 👀 Wanna take a quick look at my simple portfolio? [https://saanvi-mj.github.io](https://saanvi-mj.github.io)
 
 - 📧 How to reach me : **<saanvijasmine@gmail.com>**
 
