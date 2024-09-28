@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Saanvi MJ</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=30&pause=1000&color=FFFFFF&width=435&lines=Hello+World,+I'm+Saanvi+MJ)](https://git.io/typing-svg)
 <h3 align="center">A Machine Learning and Front-end development Enthusiast</h3>
 
 - 🔭 I’m currently working on **Machine Learning Project**
