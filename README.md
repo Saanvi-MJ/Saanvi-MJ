@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=30&center=true&pause=1000&color=FFFFFF&width=900&lines=Hello+World,+I'm+Saanvi+MJ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=30&center=true&pause=1000&color=FFFFFF&width=900&lines=🐙+Hello+World,+I'm+Saanvi+MJ)](https://git.io/typing-svg)
 <h3 align="center">A Machine Learning and Front-end development Enthusiast</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🦕 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **PHP and Laravel programming**
+- 🪼 I’m currently learning **PHP and Laravel programming**
 
 - 👀 Wanna take a quick look at my simple portfolio? [https://saanvi-mj.github.io](https://saanvi-mj.github.io)
 
 - 📧 How to reach me : **<saanvijasmine@gmail.com>**
 
-- ⚡ Quick fact : **Approximately half of the GitHub team works remotely.**
+- 🪸 Quick fact : **Approximately half of the GitHub team works remotely.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
