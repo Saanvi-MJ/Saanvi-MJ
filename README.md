@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=30&center=true&pause=1000&color=FFFFFF&width=900&lines=🐙+Hello+World,+I'm+Saanvi+MJ)](https://git.io/typing-svg)
 <h3 align="center">A Python and Front-end development Enthusiast</h3>
 
-- 🪼 I’m currently working on **Machine Learning Projects**
+- 🪼 I’m currently working on **AI and Python Projects**
 
 - 📧 How to reach me : **<saanvijasmine@gmail.com>**
 
