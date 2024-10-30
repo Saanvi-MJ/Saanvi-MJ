@@ -3,8 +3,7 @@
 
 - 🪼 I’m currently working on **AI and Python Projects**
 
-- 📧 How to reach me :  <a href="mailto:saanvijasmine@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 4px;" />
+- 📧 How to reach me : <a href="mailto:saanvijasmine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 4px;" />
 </a>
 
 - 🪸Fun fact : **Approximately half of the GitHub team works remotely.**
