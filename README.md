@@ -3,18 +3,20 @@
 
 - 🪼 I’m currently working on **AI and Python Projects**
 
-- 📧 How to reach me : <a href="mailto:saanvijasmine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 4px;" />
-</a>
-
+- 📧 How to reach me : saanvijasmine@gmail.com
 - 🪸Fun fact : **Approximately half of the GitHub team works remotely.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saanvimj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saanvimj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saanvi-m-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saanvi-m-j" height="30" width="40" /></a>
-<a href="https://instagram.com/saanvi._m.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saanvi._m.j" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saanvijasmine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saanvijasmine" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saanvi_mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saanvi_mj" height="30" width="40" /></a>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saanvi-m-j"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/saanvi-mj"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/saanvi._m.j"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/saanvi-mj"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+</div>
+
 </p>
 
 <h3 align="left">When I code, I rely on:</h3>
@@ -29,3 +31,11 @@
 <h4 align="left">AI/ML</h4>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>      
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> </p>
+
+<hr width="70%" >
+
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saanvi-mj&show_icons=true&theme=dark&locale=en&layout=compact" alt="saanvi-mj" /></p>
+
