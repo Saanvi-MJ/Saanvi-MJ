@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=30&center=true&pause=1000&color=FFFFFF&width=900&lines=🐙+Welcome,+I'm+Saanvi+MJ)](https://git.io/typing-svg)
-<h3 align="center">A Python and Front-end development Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=👽+Welcome,+I'm+Saanvi+MJ;A+Python+and+Frontend+Enthusiast;)](https://git.io/typing-svg)
 
 🚀 Currently diving deep into the Python and AIML ocean.
 
 🪸 **I enjoy dedicating more time to working on mini projects.**
+
+
+![snake gif](https://github.com/saanvi-mj/saanvi-mj/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
 
@@ -40,7 +44,7 @@
 <br>
 <hr width="70%" >
 
-<h3> 👽 My GitHub Stats</h3>
+<h3> My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saanvi-mj&show_icons=true&theme=dark&locale=en&layout=compact" alt="saanvi-mj" /></p>
