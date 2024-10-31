@@ -29,7 +29,7 @@ Technologies and Tools :<br><br>
   <img src="https://img.shields.io/badge/-Latex-449c45?style=for-the-badge&logo=latex&logoColor=449c45&labelColor=282828">
   <img src="https://img.shields.io/badge/-figma-f76e5e?style=for-the-badge&logo=figma&logoColor=f76e5e&labelColor=282828">  
   <img src="https://img.shields.io/badge/-bootstrap-533b77?style=for-the-badge&logo=bootstrap&logoColor=533b77&labelColor=282828">  
-<br><br>
+<br>
 Libraries : <br><br>
   <img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828"> 
   <img src="https://img.shields.io/badge/-tensorflow-f79500?style=for-the-badge&logo=tensorflow&logoColor=f79500&labelColor=282828"> 
@@ -39,8 +39,7 @@ Libraries : <br><br>
 <br><br>
 Database : <br><br>
 <img src="https://img.shields.io/badge/-SQLite-4da5d7?style=for-the-badge&logo=sqlite&logoColor=4da5d7&labelColor=282828"> <img src="https://img.shields.io/badge/-Mysql-dd8a00?style=for-the-badge&logo=mysql&logoColor=dd8a00&labelColor=282828"> <img src="https://img.shields.io/badge/-postgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=30648c&labelColor=282828">  
-<br><br>
-
+<br>
 <hr width="70%" >
 
 <h3>My GitHub Stats</h3>
