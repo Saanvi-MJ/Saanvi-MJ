@@ -18,17 +18,30 @@
 </div>
 
 </p>
+<hr width="70%" >
+<h3 align="left">When I code, I rely on </h3>
+Technologies and Tools :<br><br>
 
-<h3 align="left">When I code, I rely on:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828"> 
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-0096FF?style=for-the-badge&logo=javascript&logoColor=0096FF&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=282828">
   <img src="https://img.shields.io/badge/-Latex-98b982?style=for-the-badge&logo=latex&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Figma-DA70D6?style=for-the-badge&logo=figma&logoColor=DA70D6&labelColor=282828">  
-</div>
+  <img src="https://img.shields.io/badge/-figma-f76e5e?style=for-the-badge&logo=figma&logoColor=f76e5e&labelColor=282828">  
+  <img src="https://img.shields.io/badge/-bootstrap-533b77?style=for-the-badge&logo=bootstrap&logoColor=533b77&labelColor=282828">  
 
+<br><br>
+Libraries : <br> <br>
+  <img src="https://img.shields.io/badge/-opencv-c58545?style=for-the-badge&logo=opencv&logoColor=c58545&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-tensorflow-c58545?style=for-the-badge&logo=tensorflow&logoColor=c58545&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-pandas-c58545?style=for-the-badge&logo=pandas&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NumPY-c58545?style=for-the-badge&logo=numpy&logoColor=c58545&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-Scikit learn-c58545?style=for-the-badge&logo=scikitlearn&logoColor=c58545&labelColor=282828">   
+<br><br>
+Database : <br><br>
+<img src="https://img.shields.io/badge/-Mysql-DA70D6?style=for-the-badge&logo=mysql&logoColor=DA70D6&labelColor=282828">  
+<img src="https://img.shields.io/badge/-postgreSQL-DA70D6?style=for-the-badge&logo=postgresql&logoColor=DA70D6&labelColor=282828">  
+<img src="https://img.shields.io/badge/-SQLite-DA70D6?style=for-the-badge&logo=sqlite&logoColor=DA70D6&labelColor=282828">  
 <hr width="70%" >
 
 <h3>My GitHub Stats</h3>
