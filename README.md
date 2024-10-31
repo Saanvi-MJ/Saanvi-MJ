@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=👽+Welcome,+I'm+Saanvi+MJ;A+Python+and+Frontend+Enthusiast;)](https://git.io/typing-svg)
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=8000&color=%fffff&size=120&height=900&width=3000&lines=Heyyy!+I'm+Saanvi+MJ;A+Python+and+Frontend+Development+Enthusiast;I+enjoy+dedicating+more+time+to+work+on+mini+projects;">
+</p>
 🚀 Currently diving deep into the Python and AIML ocean.
 
-🪸 **I enjoy dedicating more time to working on mini projects.**
+🪸 **I love to grab ideas from pinterest**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
 
