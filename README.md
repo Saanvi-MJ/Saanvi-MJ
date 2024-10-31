@@ -38,9 +38,7 @@ Libraries : <br><br>
   <img src="https://img.shields.io/badge/-Scikit Learn-3394c7?style=for-the-badge&logo=scikitlearn&logoColor=3394c7&labelColor=282828">   
 <br><br>
 Database : <br><br>
-<img src="https://img.shields.io/badge/-SQLite-4da5d7?style=for-the-badge&logo=sqlite&logoColor=4da5d7&labelColor=282828">  
-<img src="https://img.shields.io/badge/-Mysql-dd8a00?style=for-the-badge&logo=mysql&logoColor=dd8a00&labelColor=282828">  
-<img src="https://img.shields.io/badge/-postgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=30648c&labelColor=282828">  
+<img src="https://img.shields.io/badge/-SQLite-4da5d7?style=for-the-badge&logo=sqlite&logoColor=4da5d7&labelColor=282828"> <img src="https://img.shields.io/badge/-Mysql-dd8a00?style=for-the-badge&logo=mysql&logoColor=dd8a00&labelColor=282828"> <img src="https://img.shields.io/badge/-postgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=30648c&labelColor=282828">  
 <br><br>
 
 <hr width="70%" >
