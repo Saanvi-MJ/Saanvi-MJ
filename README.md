@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=8000&color=%fffff&size=120&height=900&width=1500&lines=Heyyy+!+I'm+Saanvi+MJ;A+Python+and+Frontend+Development+Enthusiast;I+enjoy+dedicating+more+time+to+work+on+mini+projects;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=8000&color=%fffff&size=120&height=900&width=100&lines=Heyyy+!+I'm+Saanvi+MJ;A+Python+and+Frontend+Development+Enthusiast;I+enjoy+dedicating+more+time+to+work+on+mini+projects;">
 </p>
 🚀 Currently diving deep into the Python and AIML ocean.
 
