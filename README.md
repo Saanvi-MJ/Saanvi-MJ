@@ -18,6 +18,13 @@
 
 </p>
 <hr width="70%" >
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
 <h3 align="left">When I code, I rely on </h3>
 
 🛠 Technologies and Tools :<br><br>
@@ -40,7 +47,7 @@
 <br>
 <hr width="70%" >
 
-<h3> 📶 My GitHub Stats</h3>
+<h3> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saanvi-mj&show_icons=true&theme=dark&locale=en&layout=compact" alt="saanvi-mj" /></p>
