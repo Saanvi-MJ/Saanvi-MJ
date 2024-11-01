@@ -17,7 +17,7 @@
 </div>
 
 </p>
-<hr width="70%" >
+<hr width="100%" >
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
@@ -45,7 +45,7 @@
 🛢 Database : <br><br>
 <img src="https://img.shields.io/badge/-SQLite-4da5d7?style=for-the-badge&logo=sqlite&logoColor=4da5d7&labelColor=282828"> <img src="https://img.shields.io/badge/-Mysql-dd8a00?style=for-the-badge&logo=mysql&logoColor=dd8a00&labelColor=282828"> <img src="https://img.shields.io/badge/-postgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=30648c&labelColor=282828">  
 <br>
-<hr width="70%" >
+<hr width="100%" >
 
 <h3> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
