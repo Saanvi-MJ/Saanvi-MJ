@@ -26,7 +26,7 @@
 
 🛠 Technologies and Tools :<br><br>
   <img src="https://img.shields.io/badge/-HTML-ff6961?style=for-the-badge&logo=html5&logoColor=ff6961&labelColor=282828"> <img src="https://img.shields.io/badge/-CSS-2862e8?style=for-the-badge&logo=css3&logoColor=2862e8&labelColor=282828"><img src="https://img.shields.io/badge/-Javascript-f0d81e?style=for-the-badge&logo=javascript&logoColor=f0d81e&labelColor=282828"><img src="https://img.shields.io/badge/-Python-366b9b?style=for-the-badge&logo=python&logoColor=366b9b&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Latex-449c45?style=for-the-badge&logo=latex&logoColor=449c45&labelColor=282828"><img src="https://img.shields.io/badge/-figma-ff007f?style=for-the-badge&logo=figma&logoColor=ff007f&labelColor=282828">  <img src="https://img.shields.io/badge/-AngularJS-b00539?style=for-the-badge&logo=angular&logoColor=b00539&labelColor=282828">   <img src="https://img.shields.io/badge/-bootstrap-533b77?style=for-the-badge&logo=bootstrap&logoColor=533b77&labelColor=282828">  
+  <img src="https://img.shields.io/badge/-Latex-449c45?style=for-the-badge&logo=latex&logoColor=449c45&labelColor=282828"><img src="https://img.shields.io/badge/-figma-ff007f?style=for-the-badge&logo=figma&logoColor=ff007f&labelColor=282828">  <img src="https://img.shields.io/badge/-AngularJS-b00539?style=for-the-badge&logo=angular&logoColor=b00539&labelColor=282828"><img src="https://img.shields.io/badge/-bootstrap-533b77?style=for-the-badge&logo=bootstrap&logoColor=533b77&labelColor=282828">  
    
 <br>
 ⚙️Libraries : <br><br>
@@ -38,7 +38,7 @@
 <br>
 <hr width="100%" >
 
-<h3> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My GitHub Stats</h3>
+<h3><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saanvi-mj&show_icons=true&theme=dark&locale=en&layout=compact" alt="saanvi-mj" /></p>
