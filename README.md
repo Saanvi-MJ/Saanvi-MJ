@@ -1,11 +1,12 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=ffff&size=40&width=750&height=80&lines=Welcome,%20I'm+Saanvi+MJ"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=ffff&size=28&center=true&vCenter=true&width=600&height=100&lines=Hey,+I'm+Saanvi+MJ;A+Python+and+Frontend+Development+Enthusiat;"></a>
 </p>
+
 🚀 Currently diving deep into the Python and AIML ocean.
 
-🪸 **I love to grab ideas from pinterest**
+🌱 I’m always learning new things on the internet.
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc.</p>
+🪸**I love to grab ideas from pinterest to design my webpages**
 
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
