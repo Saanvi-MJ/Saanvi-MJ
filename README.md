@@ -17,14 +17,13 @@
 </div>
 
 </p>
-<hr width="100%" >
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-
+<hr width="100%" >
 <h3 align="left">When I code, I rely on </h3>
 
 🛠 Technologies and Tools :<br><br>
