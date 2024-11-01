@@ -19,12 +19,6 @@
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/saanvi._m.j"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/saanvi-mj"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 </div>
-
-</p>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
 </p>
 
 <hr width="100%" >
@@ -55,3 +49,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saanvi-mj&show_icons=true&theme=dark&locale=en&layout=compact" alt="saanvi-mj" /></p>
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
