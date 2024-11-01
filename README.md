@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=fffff&size=40&width=750&height=80&lines=Welcome,%20I'm+Saanvi+MJ"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=ffff&size=40&width=750&height=80&lines=Welcome,%20I'm+Saanvi+MJ"/>
 </p>
 🚀 Currently diving deep into the Python and AIML ocean.
 
