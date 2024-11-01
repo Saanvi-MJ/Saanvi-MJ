@@ -6,7 +6,7 @@
 
 🌱 I’m always learning new things on the internet.
 
-🪸**I love to grab ideas from pinterest to design my webpages**
+🪸 **I love to grab ideas from pinterest to design my webpages**
 
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-Python-366b9b?style=for-the-badge&logo=python&logoColor=366b9b&labelColor=282828">
   <img src="https://img.shields.io/badge/-Latex-449c45?style=for-the-badge&logo=latex&logoColor=449c45&labelColor=282828">
   <img src="https://img.shields.io/badge/-figma-ff007f?style=for-the-badge&logo=figma&logoColor=ff007f&labelColor=282828">  <img src="https://img.shields.io/badge/-AngularJS-b00539?style=for-the-badge&logo=angular&logoColor=b00539&labelColor=282828">   <img src="https://img.shields.io/badge/-bootstrap-533b77?style=for-the-badge&logo=bootstrap&logoColor=533b77&labelColor=282828">  
+   
 <br>
 ⚙️Libraries : <br><br>
   <img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828"> 
