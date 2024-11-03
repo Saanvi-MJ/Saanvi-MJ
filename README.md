@@ -6,7 +6,7 @@
 
 🌱 I’m always learning new things on the internet.
 
-🪸**I love to grab ideas from pinterest to design my webpages**
+🪸I love to grab ideas from pinterest to design my webpages
 
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
@@ -34,7 +34,7 @@
   <br>
   
 ⚙️Libraries : <br><br>
-  <img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828"><img src="https://img.shields.io/badge/-tensorflow-f79500?style=for-the-badge&logo=tensorflow&logoColor=f79500&labelColor=282828"><img src="https://img.shields.io/badge/-NumPY-4b73ca?style=for-the-badge&logo=numpy&logoColor=4b73ca&labelColor=282828"> <img src="https://img.shields.io/badge/-pandas-ebb83d?style=for-the-badge&logo=pandas&logoColor=ebb83d&labelColor=282828"><img src="https://img.shields.io/badge/-Scikit Learn-3394c7?style=for-the-badge&logo=scikitlearn&logoColor=3394c7&labelColor=282828">   
+<img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828"><img src="https://img.shields.io/badge/-tensorflow-f79500?style=for-the-badge&logo=tensorflow&logoColor=f79500&labelColor=282828"><img src="https://img.shields.io/badge/-NumPY-4b73ca?style=for-the-badge&logo=numpy&logoColor=4b73ca&labelColor=282828"><img src="https://img.shields.io/badge/-pandas-ebb83d?style=for-the-badge&logo=pandas&logoColor=ebb83d&labelColor=282828"><img src="https://img.shields.io/badge/-Scikit Learn-3394c7?style=for-the-badge&logo=scikitlearn&logoColor=3394c7&labelColor=282828">   
 <br>
 
 🛢 Database : <br><br>
