@@ -21,8 +21,9 @@
 </div>
 </p>
 
-<hr width="100%" >
-<h3 align="left">When I code, I rely on </h3>
+<hr width="100%">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"><h3 align="left">When I code, I rely on </h3>
 
 🛠 Technologies and Tools :<br><br>
   <img src="https://img.shields.io/badge/-HTML-ff6961?style=for-the-badge&logo=html5&logoColor=ff6961&labelColor=282828"> 
@@ -34,7 +35,7 @@
   <br>
   
 ⚙️Libraries : <br><br>
-<img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828"><img src="https://img.shields.io/badge/-tensorflow-f79500?style=for-the-badge&logo=tensorflow&logoColor=f79500&labelColor=282828"><img src="https://img.shields.io/badge/-NumPY-4b73ca?style=for-the-badge&logo=numpy&logoColor=4b73ca&labelColor=282828"><img src="https://img.shields.io/badge/-pandas-ebb83d?style=for-the-badge&logo=pandas&logoColor=ebb83d&labelColor=282828"><img src="https://img.shields.io/badge/-Scikit Learn-3394c7?style=for-the-badge&logo=scikitlearn&logoColor=3394c7&labelColor=282828">   
+<img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828">  <img src="https://img.shields.io/badge/-tensorflow-f79500?style=for-the-badge&logo=tensorflow&logoColor=f79500&labelColor=282828">   <img src="https://img.shields.io/badge/-pandas-ebb83d?style=for-the-badge&logo=pandas&logoColor=ebb83d&labelColor=282828"> <img src="https://img.shields.io/badge/-Scikit Learn-3394c7?style=for-the-badge&logo=scikitlearn&logoColor=3394c7&labelColor=282828"> <img src="https://img.shields.io/badge/-NumPY-4b73ca?style=for-the-badge&logo=numpy&logoColor=4b73ca&labelColor=282828"> <img src="https://img.shields.io/badge/-flask-f0d81e?style=for-the-badge&logo=flask&logoColor=f0d81e&labelColor=282828"> <img src="https://img.shields.io/badge/-Rasa-000000?style=for-the-badge&logo=rasa&logoColor=ffffff&labelColor=282828">   
 <br>
 
 🛢 Database : <br><br>
