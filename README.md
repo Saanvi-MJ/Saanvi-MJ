@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/-Javascript-f0d81e?style=for-the-badge&logo=javascript&logoColor=f0d81e&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-366b9b?style=for-the-badge&logo=python&logoColor=366b9b&labelColor=282828">
   <img src="https://img.shields.io/badge/-Latex-449c45?style=for-the-badge&logo=latex&logoColor=449c45&labelColor=282828">
-  <img src="https://img.shields.io/badge/-figma-ff007f?style=for-the-badge&logo=figma&logoColor=ff007f&labelColor=282828">  <img src="https://img.shields.io/badge/-AngularJS-b00539?style=for-the-badge&logo=angular&logoColor=b00539&labelColor=282828">  
+  <img src="https://img.shields.io/badge/-Java-ff007f?style=for-the-badge&logo=java&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-AngularJS-b00539?style=for-the-badge&logo=angular&logoColor=b00539&labelColor=282828">  
   <br>
   
 ⚙️Libraries : <br><br>
