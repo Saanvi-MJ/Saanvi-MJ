@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=ffff&size=28&center=true&vCenter=true&width=600&height=100&lines=Hey,+I'm+Saanvi+MJ;A+Python+and+Frontend+Development+Enthusiat;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=ffff&size=28&center=true&vCenter=true&width=600&height=100&lines=Hey,+I'm+Saanvi+MJ;Pixel+Perfect+Solutions;"></a>
 </p>
 
 🚀 Currently diving deep into the Python and AIML ocean.
@@ -31,11 +31,12 @@
   <img src="https://img.shields.io/badge/-Javascript-f0d81e?style=for-the-badge&logo=javascript&logoColor=f0d81e&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-366b9b?style=for-the-badge&logo=python&logoColor=366b9b&labelColor=282828">
   <img src="https://img.shields.io/badge/-Latex-449c45?style=for-the-badge&logo=latex&logoColor=449c45&labelColor=282828">
-  <img src="https://img.shields.io/badge/-figma-ff007f?style=for-the-badge&logo=figma&logoColor=ff007f&labelColor=282828">  <img src="https://img.shields.io/badge/-AngularJS-b00539?style=for-the-badge&logo=angular&logoColor=b00539&labelColor=282828"> <img src="https://img.shields.io/badge/-bootstrap-533b77?style=for-the-badge&logo=bootstrap&logoColor=533b77&labelColor=282828">  
+  <img src="https://img.shields.io/badge/-figma-ff007f?style=for-the-badge&logo=figma&logoColor=ff007f&labelColor=282828">  <img src="https://img.shields.io/badge/-AngularJS-b00539?style=for-the-badge&logo=angular&logoColor=b00539&labelColor=282828">  
   <br>
   
 ⚙️Libraries : <br><br>
-<img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828">  <img src="https://img.shields.io/badge/-tensorflow-f79500?style=for-the-badge&logo=tensorflow&logoColor=f79500&labelColor=282828">   <img src="https://img.shields.io/badge/-pandas-ebb83d?style=for-the-badge&logo=pandas&logoColor=ebb83d&labelColor=282828"> <img src="https://img.shields.io/badge/-Scikit Learn-3394c7?style=for-the-badge&logo=scikitlearn&logoColor=3394c7&labelColor=282828"> <img src="https://img.shields.io/badge/-NumPY-4b73ca?style=for-the-badge&logo=numpy&logoColor=4b73ca&labelColor=282828"> <img src="https://img.shields.io/badge/-flask-f0d81e?style=for-the-badge&logo=flask&logoColor=f0d81e&labelColor=282828"> <img src="https://img.shields.io/badge/-Rasa-000000?style=for-the-badge&logo=rasa&logoColor=ffffff&labelColor=282828">   
+<img src="https://img.shields.io/badge/-opencv-f60100?style=for-the-badge&logo=opencv&logoColor=f60100&labelColor=282828">  <img src="https://img.shields.io/badge/-tensorflow-f79500?style=for-the-badge&logo=tensorflow&logoColor=f79500&labelColor=282828">   <img src="https://img.shields.io/badge/-pandas-ebb83d?style=for-the-badge&logo=pandas&logoColor=ebb83d&labelColor=282828"> <img src="https://img.shields.io/badge/-Scikit Learn-3394c7?style=for-the-badge&logo=scikitlearn&logoColor=3394c7&labelColor=282828"> <img src="https://img.shields.io/badge/-NumPY-4b73ca?style=for-the-badge&logo=numpy&logoColor=4b73ca&labelColor=282828"> <img src="https://img.shields.io/badge/-flask-f0d81e?style=for-the-badge&logo=flask&logoColor=f0d81e&labelColor=282828"> <img src="https://img.shields.io/badge/-Rasa-000000?style=for-the-badge&logo=rasa&logoColor=ffffff&labelColor=282828">  <img src="https://img.shields.io/badge/-Pytorch-533b77?style=for-the-badge&logo=Pytorch&logoColor=533b77&labelColor=282828">   
+<br> 
 <br>
 
 🛢 Database : <br><br>
