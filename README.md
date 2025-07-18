@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=ffff&size=28&center=true&vCenter=true&width=600&height=100&lines=Hey,+I'm+Saanvi+MJ;Pixel+Perfect+Solutions;"></a>
 </p>
 
-🚀 Currently diving deep into the Python and AIML ocean.
+🚀 Currently diving deep into the Data Ocean.
 
 🌱 I’m always learning new things on the internet.
 
